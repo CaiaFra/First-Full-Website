@@ -21,8 +21,13 @@ body {
 }
 
 .logo {
-    font-weight: 700px;
-    font-size: 30px;
+    font-weight: 600;
+    font-size: 40px;
+    font-family: 'Roboto', Ubuntu,sans-serif;
+    border-width: 3px;
+    border-color: #E5E7EB;
+    border-style: solid;
+    padding: 7px 20px;
 }
 
 .right-links {
